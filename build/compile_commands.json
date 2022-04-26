@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mikael/Projects/c++/Mathemax/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/test1.dir/tests/test1.cpp.o -c /home/mikael/Projects/c++/Mathemax/tests/test1.cpp",
+  "file": "/home/mikael/Projects/c++/Mathemax/tests/test1.cpp"
+}
+]
