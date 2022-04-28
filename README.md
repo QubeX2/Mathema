@@ -1,1 +1,1 @@
-# Mathema
+# Mathemax
