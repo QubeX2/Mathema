@@ -1,1 +1,0 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/Mathemax.dir/main.cpp.o  -o Mathemax 

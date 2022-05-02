@@ -16,6 +16,10 @@ endforeach()
 
 
 set(CMAKE_CXX_STANDARD 20)
+set(
+   CMAKE_CXX_FLAGS
+   "${CMAKE_CXX_FLAGS} -std=c++20 -O0 -W -Wall -Wextra -pedantic"
+)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
